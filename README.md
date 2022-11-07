@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Frontend and mobile app Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Ghana.
+I am a Frontend, Backend and mobile app Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Ghana.
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 - :seedling: I'm currently learning Golang technologies.
 - :zap: In my free time, I solve problems on leetcode and read tech articles.I also search for new technologies on youtube.

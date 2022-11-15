@@ -17,8 +17,8 @@
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
   <h3>
-    Fullstack developer
- </h3
+    FrontEnd | Backend | Mobile Developer
+  </h3
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -58,7 +58,7 @@ I am a Frontend, Backend and mobile app Developer <img src="https://media.giphy.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeremiah-quaynor&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiah-quaynor&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiah-quaynor&count_private=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

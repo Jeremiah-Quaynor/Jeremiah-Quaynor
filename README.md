@@ -17,7 +17,7 @@
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
   <h3>
-    IoT | FrontEnd | Backend | Mobile Developer
+    IoT | Fullstack Javaascript Developer
   </h3
 </div>
 <div align="center">

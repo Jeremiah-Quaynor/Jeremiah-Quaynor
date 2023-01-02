@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 I am a fullstack, IoT and mobile app Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Ghana.<br>
-<p align="left">:telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.<br>
+<p align="left">:telescope: I’m working as a Software Engineer and contributing to building fullstack web applications.<br>
 :seedling: I'm currently learning Golang technologies.<br>
 :zap: In my free time, I solve problems on leetcode and read tech articles.I also search for new technologies on youtube.<br>
 :mailbox:How to reach me:   <a href="https://www.linkedin.com/in/jeremiah-quaynor-014786212">

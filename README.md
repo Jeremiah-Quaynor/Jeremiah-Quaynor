@@ -17,7 +17,7 @@
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
   <h3>
-    IoT | Fullstack Javascript Developer
+    Fullstack Javascript Developer | Python Developer
   </h3
 </div>
 <div align="center">
@@ -26,9 +26,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a fullstack, IoT and mobile app Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Ghana.<br>
+I am a fullstack, mobile app and IoT Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Ghana.<br>
 <p align="left">:telescope: I’m working as a Software Engineer and contributing to building fullstack web applications.<br>
-:zap: In my free time, I solve problems on leetcode and read tech articles.I also search for new technologies on youtube.<br>
+:zap: In my free time, I try to implement/clone certain apps and read tech articles. I also search for new technologies on youtube.<br>
 :mailbox:How to reach me:   <a href="https://www.linkedin.com/in/jeremiah-quaynor-014786212">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

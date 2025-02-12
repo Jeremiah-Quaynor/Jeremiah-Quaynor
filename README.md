@@ -1,43 +1,47 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/jeremiah-quaynor-014786212">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<!--   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-  <a href="https://twitter.com/HommeyJerry">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
   <img src="https://komarev.com/ghpvc/?username=jeremiah-quaynor&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there, I'm Jeremiah Kwabena Quaynor
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
   <h3>
-    Fullstack Javascript Developer | Python Developer
+    Fullstack TypeScript Developer | Python Developer
   </h3
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+# 🚀 About Me
+🔹 Passionate about building scalable and optimized applications for fintech, insurtech, and decentralized platforms.<br>
+🔹 Experienced in frontend, backend, and mobile development using React, Flask, React Native, Svelte, and Next.js.<br>
+🔹 Skilled in LiveKit, FullCalendar, Tailwind CSS, and IoT development.<br>
+🔹 Enjoys solving complex problems, optimizing performance, and working in collaborative teams.<br>
+🔹 When I'm not coding, I'm reading tech articles, experimenting with new technologies, or contributing to open-source projects.
+
+# 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiah-quaynor&count_private=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
-### :man_technologist: About Me :
-I am a fullstack, mobile app and IoT Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Ghana.<br>
-<p align="left">:telescope: I’m working as a Software Engineer and contributing to building fullstack web applications.<br>
-:zap: In my free time, I try to implement/clone certain apps and read tech articles. I also search for new technologies on youtube.<br>
-:mailbox:How to reach me:   <a href="https://www.linkedin.com/in/jeremiah-quaynor-014786212">
+# 💡Fun Facts
+
+🛠 I love working with LiveKit, TailwindCSS, and Markdown rendering in Svelte!
+🌎 I've collaborated with developers worldwide and enjoy learning from diverse perspectives.
+⚡ I’m currently working on a decentralized community platform, a tax-filing app, and an Expo-based React Native app.
+🎯 My goal is to master distributed systems and cloud-native architectures.
+
+👨‍💻 Let's connect and build something awesome! 🚀
+
+---
+
+#📫 How to reach me:
+<a href="https://www.linkedin.com/in/jeremiah-quaynor-014786212">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
-    </p>
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
+### 🛠 Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -56,15 +60,5 @@ I am a fullstack, mobile app and IoT Developer <img src="https://media.giphy.com
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
-
-
-
 </div>
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeremiah-quaynor&theme=dracula&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiah-quaynor&count_private=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-

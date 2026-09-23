@@ -1,64 +1,48 @@
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeremiah-quaynor&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there, I'm Jeremiah Kwabena Quaynor
-</h1>
-  <h3>
-    Fullstack TypeScript Developer | Python Developer
-  </h3
-</div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+# Hi, I'm Jeremiah Quaynor 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Full-stack+engineer+%E2%80%A2+TypeScript+%26+Python;Web%2C+mobile+and+voice-first+apps;5%2B+years+shipping+to+real+users;Open+to+remote+roles" alt="Typing intro" />
+
+<a href="https://www.linkedin.com/in/jeremiah-quaynor-014786212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://jeremiah-quaynor.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:hommeyj7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
-# 🚀 About Me
-🔹 Passionate about building scalable and optimized applications for fintech, insurtech, and decentralized platforms.<br>
-🔹 Experienced in frontend, backend, and mobile development using React, Flask, React Native, Svelte, and Next.js.<br>
-🔹 Skilled in LiveKit, FullCalendar, Tailwind CSS, and IoT development.<br>
-🔹 Enjoys solving complex problems, optimizing performance, and working in collaborative teams.<br>
-🔹 When I'm not coding, I'm reading tech articles, experimenting with new technologies, or contributing to open-source projects.
+---
 
-# 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiah-quaynor&count_private=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### About me
+
+I'm a full-stack engineer based in Accra, Ghana, with 5+ years of building web and mobile products end-to-end. Most of my work is TypeScript and React on the frontend, Node.js, Python and PostgreSQL on the backend, and React Native for iOS and Android. I've shipped production systems in fintech, payments, insurtech and decentralized social platforms, mostly on small, fully remote teams.
+
+- 🔭 Currently building **AllPeep**, an open-source decentralized social platform (SvelteKit + GraphDB)
+- 🌱 Learning more about distributed systems and cloud-native architecture
+- 💬 Happy to talk about React Native, API design, or real-time apps with LiveKit
+- 🌍 Open to remote full-stack roles
+
+### Recent projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **LazeR** | Remote-control a macOS or Windows computer from your Android or iOS phone | Python, React |
+| **Polyglot** | Voice-first web app for learning languages | Python, React |
+| **Route Runner Pro** | Draw custom routes on a map, set a target pace, and get a difficulty score | React |
+| **Project Shepherd** | Invoice generation service with HMAC-based request authentication | Flask, SQL |
+| **Image Generator** | Image-processing tool built on the OpenAI API | Node.js, OpenAI |
+
+### Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,react,nextjs,svelte,tailwind&perline=8" alt="Languages and frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mysql,redis,firebase,docker&perline=8" alt="Backend and data" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,figma,arduino&perline=8" alt="Tools" />
+</p>
 
 ---
 
-# 💡Fun Facts
-
-🛠 I love working with LiveKit, TailwindCSS, and Markdown rendering in Svelte!
-🌎 I've collaborated with developers worldwide and enjoy learning from diverse perspectives.
-⚡ I’m currently working on a decentralized community platform, a tax-filing app, and an Expo-based React Native app.
-🎯 My goal is to master distributed systems and cloud-native architectures.
-
-👨‍💻 Let's connect and build something awesome! 🚀
-
----
-
-#📫 How to reach me:
-<a href="https://www.linkedin.com/in/jeremiah-quaynor-014786212">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br>
----
-
-### 🛠 Tech Stack
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node Js" alt="Node Js" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" title="Jasmine" alt="Jasmine" width="40" height="40"/>&nbsp; <br>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Typescript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
+<div align="center">
+  <sub>Building things that survive contact with real users.</sub>
 </div>
----
